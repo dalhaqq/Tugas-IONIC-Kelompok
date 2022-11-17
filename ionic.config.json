@@ -1,0 +1,7 @@
+{
+  "name": "Tugas CRUD + Login",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
